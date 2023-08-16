@@ -22,14 +22,14 @@ public class Initializer {
 	
 		
 	/**
+	 * 
 	 * @author 
 	 * @date
 	 * @purpose environment variable declared
 	 * 
-	 *
 	 */
 	
-       
+          
 
 	public static FileInputStream envfis = null;
 	
